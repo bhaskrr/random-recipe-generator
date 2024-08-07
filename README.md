@@ -20,6 +20,12 @@ In this project, you'll learn how to interact with a 3rd party API, TheMealDB, t
 - React Icons [ReactIcons](https://react-icons.github.io/react-icons/)
 - Meal API: [TheMealDB](https://www.themealdb.com/)
 
+## Screenshots
+
+### Desktop Design
 
 ![Desktop Design](Desktop.png)
+
+### Mobile Design
+
 ![Mobile Design](Mobile.png)
